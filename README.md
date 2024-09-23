@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zulkhan99
-- 👀 I’m interested in Computer Networking (although had very bad grades :( lol), digital forensics is also interesting and exploring more :)
-- 🌱 I’m currently doing Bacherlors in Information Security
-- 💞️ I’m looking to collaborate on anything that's interesting haha :)
+- 👀 I’m interested in Computer Networking (although had very bad grades :( lol), digital forensics is also interesting, and exploring more :)
+- 🌱 I’m currently doing a bachelor's in Information Security
+- 💞️ I’m looking to collaborate on anything interesting haha :)
 - 📫 How to reach me: https://www.linkedin.com/in/zulekah-khan/ (LinkedIn)
 
 <!---
